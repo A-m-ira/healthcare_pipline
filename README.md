@@ -40,7 +40,7 @@ Snowflake Data Warehouse
 ---
 
 # Technologies Used
-Python
+### Python
 PySpark
 Hadoop HDFS
 Apache Airflow
