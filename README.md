@@ -40,15 +40,15 @@ Snowflake Data Warehouse
 ---
 
 # Technologies Used
-### Python
-PySpark
-Hadoop HDFS
-Apache Airflow
-YARN
-Docker
-Snowflake
-Parquet
-Star Schema
+#### Python
+#### PySpark
+#### Hadoop HDFS
+#### Apache Airflow
+#### YARN
+#### Docker
+#### Snowflake
+#### Parquet
+#### Star Schema
 ---
 
 # Storage Layers
