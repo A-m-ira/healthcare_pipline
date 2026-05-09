@@ -119,3 +119,13 @@ FROM FACT_HEALTHCARE f
 JOIN DIM_PATIENT d
 ON f.PATIENT_KEY = d.PATIENT_KEY;
 ```
+----
+## Project Importance
+
+This project is designed to simulate a real-world enterprise data engineering system, focusing on how raw operational data is transformed into structured, analytics-ready datasets.
+
+It highlights the full lifecycle of data movement, from ingestion to final analytical storage, reflecting how large-scale organizations manage and process healthcare data efficiently.
+
+The project demonstrates practical experience with distributed computing, workflow automation, and data modeling, which are essential skills in modern data engineering roles. It also shows how different systems work together to ensure scalability, reliability, and performance in handling large datasets.
+
+Additionally, it provides a clear understanding of how raw, semi-structured data can be converted into meaningful business insights through structured transformation pipelines and cloud-based data warehousing.
